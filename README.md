@@ -35,7 +35,7 @@ After cleaning and analyzing the data using Python, visualizations were combined
 
 - **Python:** pandas, numpy, scikit-learn, matplotlib, seaborn  
 - **Jupyter Notebook** for data cleaning and exploration  
-- **Power BI / Canva** for dashboard design and final visualization  
+- **Google Sheets** for dashboard design and final visualization  
 
 ---
 
