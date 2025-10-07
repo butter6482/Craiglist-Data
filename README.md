@@ -47,5 +47,4 @@ Below is the final dashboard summarizing all visual findings:
 
 ---
 
-## 📁 Project Structure
 
