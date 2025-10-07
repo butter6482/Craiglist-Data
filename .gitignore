@@ -1,0 +1,5 @@
+*.csv
+data/**
+car-dashboard/data/**
+!data/Untitled.ipynb
+!car-dashboard/data/Untitled.ipynb
